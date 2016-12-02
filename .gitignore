@@ -36,7 +36,6 @@ vendor/
 .vscode/
 bin/
 pkg/
-server/
 Would skip repository src/github.com/cweill/gotests
 Would skip repository src/github.com/golang/lint
 Would skip repository src/github.com/klauspost/compress
